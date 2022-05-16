@@ -1,0 +1,1 @@
+# zmien wagi w avg.php w gałęzi konflikt 
